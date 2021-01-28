@@ -1,3 +1,36 @@
+<<<<<<< HEAD
 222211333444   55555 666
 fefefe
 develop
+=======
+222211333444   55555 666 11
+1. git  checkout -b 分支名
+
+2. commitizen init cz-conventional-changelog --save --save-exact --force
+
+3. git status
+
+4. git add .
+
+5. git cz
+
+6.  feat 
+	回车
+                提交测试  回车
+
+7. git checkout develop
+
+8. git pull
+
+9. git merge 本地分支名 --no-ff
+
+10. git push
+
+11. git branch -d 刚才的本地分支
+
+
+
+
+
+maven:先clean, install, 同步，rebuild 
+>>>>>>> 2021-1-28
