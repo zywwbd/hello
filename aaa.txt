@@ -1,8 +1,8 @@
-<<<<<<< HEAD
+
 222211333444   55555 666
 fefefe
 develop
-=======
+
 222211333444   55555 666 11
 1. git  checkout -b 分支名
 
@@ -33,4 +33,4 @@ develop
 
 
 maven:先clean, install, 同步，rebuild 
->>>>>>> 2021-1-28
+
